@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <root>
+     <inventory>
+         <id>1</id>
+         <name>amoxixilina</name>
+         <quantity>20</quantity>
+     </inventory>
+     <inventory>
+         <id>2</id>
+         <name>Aspirina</name>
+         <quantity>1</quantity>
+     </inventory>
+ </root>
